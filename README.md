@@ -2,7 +2,8 @@
 
 ECS를 통한 도커 기반 컨테이너 서비스 인프라 구축 및 CodePipeline 으로 ECS 배포 자동화
 
-![image](https://github.com/Minki-An/Terraform_ECS/assets/127027898/ea18c282-ac54-4a8c-882c-212cab296dda)
+![image](https://github.com/Minki-An/Terraform_ECS/assets/127027898/1898bc04-f3ac-4b3e-bb5c-6a4a1d4a3d0d)
+
 
 
 
